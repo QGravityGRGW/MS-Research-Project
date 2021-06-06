@@ -1,0 +1,11 @@
+"O II 3727"	3727.092
+"He I 3889"	3889.749
+"H$\mathregular{\delta}$ 4102"	4102.900
+"H$\mathregular{\gamma}$ 4341"	4341.691
+"H$\mathregular{\beta}$ 4862"	4862.691
+"O III 4960"	4960.295
+"O III 5008"	5008.240
+"O I 6302"	6302.046
+"O I 6365"	6365.535
+"H$\mathregular{\alpha}$ 6564"	6564.632
+"S II 6718"	6718.294
